@@ -25,7 +25,7 @@ class Sort{
                 mid++;
             }
 
-            /*f the value of the index is 2 the swap it with the high index and also decrement the high(high--*/
+            /*f the value of the index is 2 the swap it with the high index and also decrement the high(high--)*/
             else {
                 swap(arr[mid],arr[high]);
                 high--;            
